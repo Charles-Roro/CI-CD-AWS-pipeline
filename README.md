@@ -28,6 +28,21 @@ SonarQube is up and running(password and username MUST be changed from default!)
 Updating Nexus Ubuntu instance
 ![Screenshot 2024-10-23 at 11 51 16 AM](https://github.com/user-attachments/assets/5d3e82de-5c46-4e78-bfd7-828e4e22a9a3)
 Installing Docker on the Nexus instance
+![Screenshot 2024-10-23 at 11 54 38 AM](https://github.com/user-attachments/assets/be9fe545-0533-4d2e-8804-023ab14cec87)
+![Screenshot 2024-10-23 at 11 54 52 AM](https://github.com/user-attachments/assets/a9a3664e-d5ad-4e9e-a868-7f4627907518)
+Pulling Nexus docker image
+![Screenshot 2024-10-23 at 11 58 09 AM](https://github.com/user-attachments/assets/0fb8534b-5fb4-427a-87cc-be3b7ca40d41)
+![Screenshot 2024-10-23 at 12 01 32 PM](https://github.com/user-attachments/assets/ec6122f7-ca29-42fa-ae16-1c490ee0d946)
+Getting access to the docker container information to get and change the password for Nexus
+![Screenshot 2024-10-23 at 12 03 52 PM](https://github.com/user-attachments/assets/154e2747-743a-40ad-865e-b090edb85997)
+![Screenshot 2024-10-23 at 12 05 47 PM](https://github.com/user-attachments/assets/d16746af-2987-48b0-80d5-08e5a0a790e2)
+![Screenshot 2024-10-23 at 12 07 04 PM](https://github.com/user-attachments/assets/da2bbb40-e17f-4774-a303-0cc33d5a8a2a)
+
+
+
+
+
+
 
 
 
