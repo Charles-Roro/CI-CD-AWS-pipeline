@@ -38,8 +38,16 @@ Getting access to the docker container information to get and change the passwor
 ![Screenshot 2024-10-23 at 12 05 47 PM](https://github.com/user-attachments/assets/d16746af-2987-48b0-80d5-08e5a0a790e2)
 ![Screenshot 2024-10-23 at 12 07 04 PM](https://github.com/user-attachments/assets/da2bbb40-e17f-4774-a303-0cc33d5a8a2a)
 
-
-
+Setting up Script in Jenkins for the pipeline
+![Screenshot 2024-10-25 at 10 27 14 AM](https://github.com/user-attachments/assets/f58468e4-b407-4ac4-bf0e-ad293fa80667)
+Pipeline up and running!
+![Screenshot 2024-10-25 at 11 08 42 AM](https://github.com/user-attachments/assets/0c1f8c0e-619b-4b08-a4b0-c79ca248ee96)
+Results from SonarQube server to show what issues need to be addressed!
+![Screenshot 2024-10-25 at 11 09 40 AM](https://github.com/user-attachments/assets/f2ee2925-beac-4193-bc5e-f27154a353f8)
+Adjusting Script to Publish to Nexus Repo
+![Screenshot 2024-10-25 at 11 35 21 AM](https://github.com/user-attachments/assets/dcfada14-042b-4a21-857c-f5c7a53994ad)
+![Screenshot 2024-10-25 at 11 34 25 AM](https://github.com/user-attachments/assets/76a56d3e-6e2b-4fa4-a290-cc258a4efbfd)
+![Screenshot 2024-10-25 at 11 38 34 AM](https://github.com/user-attachments/assets/3213a755-68bc-4725-94dc-1235db19f1b2)
 
 
 
