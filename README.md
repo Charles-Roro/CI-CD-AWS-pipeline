@@ -48,6 +48,10 @@ Adjusting Script to Publish to Nexus Repo
 ![Screenshot 2024-10-25 at 11 35 21 AM](https://github.com/user-attachments/assets/dcfada14-042b-4a21-857c-f5c7a53994ad)
 ![Screenshot 2024-10-25 at 11 34 25 AM](https://github.com/user-attachments/assets/76a56d3e-6e2b-4fa4-a290-cc258a4efbfd)
 ![Screenshot 2024-10-25 at 11 38 34 AM](https://github.com/user-attachments/assets/3213a755-68bc-4725-94dc-1235db19f1b2)
+![Screenshot 2024-10-25 at 11 41 10 AM](https://github.com/user-attachments/assets/5914e31a-d79b-4e1e-a8d3-b57f3e23af2e)
+
+
+
 
 
 
