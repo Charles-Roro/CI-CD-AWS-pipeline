@@ -1,6 +1,11 @@
 # CI-CD-AWS-pipeline
 A CI/CD pipeline using Jenkins, SonarQube, Nexus, and Snyk
 
+
+
+
+
+
 Creating 2 VMs in AWS to host the SonarQube and Nexus instances
 
 Selecting Ubuntu as the OS and alloting enough memory for the Nexus instance (4GB)
