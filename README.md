@@ -2,7 +2,9 @@
 A CI/CD pipeline using Jenkins, SonarQube, Nexus, and Snyk
 
 
+First scan with snyk "Snyk iac test" 
 
+![Screenshot 2024-10-30 at 10 33 52 AM](https://github.com/user-attachments/assets/7e9ee664-1a4c-4238-b02f-71fe62817d0c)
 
 
 
